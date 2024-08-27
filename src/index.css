@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #23272c;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+h4 {
+
+}
+
+ul {
+  list-style-type: none;
+}
