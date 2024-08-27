@@ -29,7 +29,7 @@ function Header() {
       <nav className="nav">
         <div className="nav-logo-div">
           <img className="logo" src={Logo} alt="logo"></img>
-          <h3>ReactFacts</h3>
+          <h3>HouseMarket</h3>
         </div>
         <ul className="navbar-menu">
           <li className="navbar-item dropdown" ref={dropdownRef}>

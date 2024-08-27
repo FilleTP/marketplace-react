@@ -5,18 +5,18 @@
   align-items: center;
   padding-top: 40px;
   color: white;
-  background-color: #23272c;
+  background-color: white;
   min-height: 80vh;
-  background-image: url('../../images/logo-large.svg');
+  /* background-image: url('../../images/logo-large.svg');
   background-repeat: no-repeat;
-  background-position: right -50% top 75px; /* Adjust these values */
+  background-position: right -50% top 75px; */
 }
 
-@media only screen and (min-width: 200px) and (max-width: 767px) {
+/* @media only screen and (min-width: 200px) and (max-width: 767px) {
   .container {
-    background-position: left 220px top 75px; /* Adjust these values */
+    background-position: left 220px top 75px;
   }
-}
+} */
 
 .container ul {
   list-style-type: none;
